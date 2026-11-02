@@ -1,0 +1,47 @@
+python:  # 包名
+  x64:  # 64位可用包
+    '3.15': https://www.python.org/ftp/python/3.15.1/python-3.15.1-amd64.exe
+    '3.14': https://www.python.org/ftp/python/3.14.9/python-3.14.9-amd64.exe
+    '3.13': https://www.python.org/ftp/python/3.13.17/python-3.13.17-amd64.exe
+    '3.12': https://www.python.org/ftp/python/3.12.9/python-3.12.9-amd64.exe
+    '3.11': https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
+    '3.10': https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
+    '3.9': https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe
+    '3.8': https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
+    '3.7': https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe
+    '3.6': https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe
+  x32:  # 32位可用包
+    '3.15': https://www.python.org/ftp/python/3.15.1/python-3.15.1.exe
+    '3.14': https://www.python.org/ftp/python/3.14.9/python-3.14.9.exe
+    '3.13': https://www.python.org/ftp/python/3.13.17/python-3.13.17.exe
+    '3.12': https://www.python.org/ftp/python/3.12.9/python-3.12.9.exe
+    '3.11': https://www.python.org/ftp/python/3.11.9/python-3.11.9.exe
+    '3.10': https://www.python.org/ftp/python/3.10.11/python-3.10.11.exe
+    '3.9': https://www.python.org/ftp/python/3.9.13/python-3.9.13.exe
+    '3.8': https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe
+    '3.7': https://www.python.org/ftp/python/3.7.9/python-3.7.9.exe
+    '3.6': https://www.python.org/ftp/python/3.6.8/python-3.6.8.exe
+nodejs:
+  x64:
+    '26': https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v26.12.1/node-v26.12.1-x64.msi
+    '25': https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v25.9.0/node-v25.9.0-x64.msi
+    '24': https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v24.22.1/node-v24.22.1-x64.msi
+    '23': https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v23.11.1/node-v23.11.1-x64.msi
+    '22': https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v22.23.4/node-v22.23.4-x64.msi
+    '21': https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v21.7.3/node-v21.7.3-x64.msi
+    '20': https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v20.20.2/node-v20.20.2-x64.msi
+  x32:
+    '22': https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v22.23.4/node-v22.23.4-x32.msi
+    '21': https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v21.7.3/node-v21.7.3-x32.msi
+    '20': https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v20.20.2/node-v20.20.2-x32.msi
+jarfix:
+  all:
+    '1.0': https://johann.loefflmann.net/downloads/jarfix.exe
+java:
+  x64:
+    '27': https://download.oracle.com/java/27/latest/jdk-27_windows-x64_bin.exe
+    '26': https://download.oracle.com/java/26/latest/jdk-26_windows-x64_bin.exe
+    '25': https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe
+    '21': https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe
+    '20': https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe
+    '17': https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe

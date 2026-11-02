@@ -1,0 +1,197 @@
+mc-pack:  # 包名
+  gc:  # Gitcode平台
+    name: CDEs-mc-pack  # 仓库名
+    tags:
+      newer-26.3.38.0:
+        all:  # x86可用包
+        - CDE's pack 26.43.0.zip
+        - CDE's pack 26.42.0.zip
+        - CDE's pack 26.41.0.zip
+        - CDE's pack 26.39.1.zip
+        - CDE's pack b26.39.0.zip
+        - CDE's pack b26.38.1.zip
+        - CDE's pack a26.38.0.zip
+      newer-26.2.36.1:
+        all:
+        - CDE's pack 26.39.0.zip
+        - CDE's pack 26.38.1.zip
+        - CDE's pack 26.38.0.zip
+        - CDE's pack 26.37.3.zip
+        - CDE's pack 26.37.2.zip
+        - CDE's pack 26.37.1.zip
+        - CDE's pack 26.37.0.zip
+        - CDE's pack 26.36.2.zip
+        - CDE's pack 26.36.1.zip
+        x64: []
+        x32: []
+      v26.2.36.0:
+        all:
+        - CDE's pack 26.36.0.zip
+      v26.2.35.0:
+        all:
+        - CDE's pack 26.35.0.zip
+  ge:  # Gitee平台
+    name: CDEs-mc-pack
+    tags:
+      v26.3.38+:
+        all:
+        - CDE's pack 26.43.0.zip
+        - CDE's pack 26.42.0.zip
+        - CDE's pack 26.41.0.zip
+        - CDE's pack 26.39.1.zip
+        - CDE's pack b26.39.0.zip
+        - CDE's pack b26.38.1.zip
+        - CDE's pack a26.38.0.zip
+      v26.2.36+:
+        all:
+        - CDE's pack 26.39.0.zip
+        - CDE's pack 26.38.1.zip
+        - CDE's pack 26.38.0.zip
+        - CDE's pack 26.37.3.zip
+        - CDE's pack 26.37.2.zip
+      v26.2.36.0:
+        all:
+        - CDE's pack 26.36.0.zip
+      v26.2.35.0:
+        all:
+        - CDE's pack 26.35.0.zip
+  gh:  # Github平台
+    name: CDEs-mc-modpack
+    tags:
+      v26.3.38+:
+        all:
+        - CDEs-pack-26.43.0.zip
+        - CDEs-pack-26.42.0.zip
+        - CDEs-pack-26.41.0.zip
+        - CDEs-pack-26.39.1.zip
+        - CDEs-pack-b26.39.0.zip
+        - CDEs-pack-b26.38.1.zip
+        - CDEs-pack-a26.38.0.zip
+      v26.2.36+:
+        all:
+        - CDEs-pack-26.39.0.zip
+        - CDEs-pack-26.38.1.zip
+        - CDEs-pack-26.38.0.zip
+        - CDEs-pack-26.37.3.zip
+        - CDEs-pack-26.37.2.zip
+      v26.2.36.0:
+        all:
+        - CDEs-pack-26.36.0.zip
+      v26.2.35.0:
+        all:
+        - CDEs-pack-26.35.0.zip
+sleep.exe:
+  gc:
+    name: sleep.exe-and-unbroadcast
+    tags:
+      v2.0:
+        x64:
+        - sleep-x64.exe
+        x32:
+        - sleep-x32.exe
+      v1.2:
+        x64:
+        - sleep.exe
+  ge:
+    name: sleep.exe-and-unbroadcast
+    tags:
+      v2.0:
+        x64:
+        - sleep-x64.exe
+        x32:
+        - sleep-x32.exe
+      v1.2:
+        x64:
+        - sleep.exe
+  gh:
+    name: sleep.exe-and-unbroadcast
+    tags:
+      v2.0:
+        x64:
+        - sleep-x64.exe
+        x32:
+        - sleep-x32.exe
+      v1.2:
+        x64:
+        - sleep.exe
+ubc-bat:
+  gc:
+    name: sleep.exe-and-unbroadcast
+    tags:
+      v2.0:
+        all:
+        - 查进程解广播.bat
+      v1.2:
+        all:
+        - 查进程解广播.bat
+  ge:
+    name: sleep.exe-and-unbroadcast
+    tags:
+      v2.0:
+        all:
+        - 查进程解广播.bat
+      v1.2:
+        all:
+        - 查进程解广播.bat
+  gh:
+    name: sleep.exe-and-unbroadcast
+    tags:
+      v2.0:
+        all:
+        - unbroadcast.bat
+      v1.2:
+        all:
+        - unbroadcast.bat
+sau:
+  gc:
+    name: sleep.exe-and-unbroadcast
+    tags:
+      v2.0:
+        x64:
+        - 解广播-x64.zip
+        x32:
+        - 解广播-x32.zip
+      v1.2:
+        x64:
+        - 解广播.zip
+  ge:
+    name: sleep.exe-and-unbroadcast
+    tags:
+      v2.0:
+        x64:
+        - 解广播-x64.zip
+        x32:
+        - 解广播-x32.zip
+      v1.2:
+        x64:
+        - 解广播.zip
+  gh:
+    name: sleep.exe-and-unbroadcast
+    tags:
+      v2.0:
+        x64:
+        - unbroadcast-x64.zip
+        x32:
+        - unbroadcast-x32.zip
+      v1.2:
+        x64:
+        - unbroadcast.zip
+mcg:
+  gc:
+    name: more-clearly-glass
+    tags:
+      v2.0:
+        all:
+        - CDE's Connected Glass v2.0 26.3+.zip
+  ge:
+    name: more-clearly-glass
+    tags:
+      v2.0:
+        all:
+        - CDE's Connected Glass v2.0 26.3 .zip
+  gh:
+    name: more-clearly-glass
+    tags:
+      v2.0:
+        all:
+        - CDEs-Connected-Glass-v2.0-26.3+.zip
