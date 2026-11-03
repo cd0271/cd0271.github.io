@@ -4,6 +4,7 @@ mc-pack:  # 包名
     tags:
       newer-26.3.38.0:
         all:  # x86可用包
+        - CDE's pack 26.45.0.zip
         - CDE's pack 26.43.0.zip
         - CDE's pack 26.42.0.zip
         - CDE's pack 26.41.0.zip
@@ -35,6 +36,7 @@ mc-pack:  # 包名
     tags:
       v26.3.38+:
         all:
+        - CDE's pack 26.45.0.zip
         - CDE's pack 26.43.0.zip
         - CDE's pack 26.42.0.zip
         - CDE's pack 26.41.0.zip
@@ -60,6 +62,7 @@ mc-pack:  # 包名
     tags:
       v26.3.38+:
         all:
+        - CDEs-pack-26.45.0.zip
         - CDEs-pack-26.43.0.zip
         - CDEs-pack-26.42.0.zip
         - CDEs-pack-26.41.0.zip
@@ -180,6 +183,9 @@ mcg:
   gc:
     name: more-clearly-glass
     tags:
+      v3.0:
+        all:
+        - CDE's Connected Glass v3.0 26.3+.zip
       v2.0:
         all:
         - CDE's Connected Glass v2.0 26.3+.zip
