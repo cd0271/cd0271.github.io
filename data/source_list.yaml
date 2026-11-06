@@ -4,21 +4,21 @@
 - gitee:
     - "https://gitee.com"
     - "ge"
-- github:
-    - "https://github.com"
+- github+dpik:
+    - "https://gh.dpik.top/https://github.com"
+    - "gh"
+- github+wgetla:
+    - "https://wget.la/https://github.com"
     - "gh"
 - github+gpc:
     - "https://eo.gh-proxy.cn/github/https://github.com"
     - "gh" # GhProxy.Cn
-- github+gpn:
-    - "https://ghproxy.net/github.com"
-    - "gh" # GhProxy.Net
-- github+dpik:
-    - "https://gh.dpik.top/https://github.com"
+- github+tvvtw:
+    - "https://tvv.tw/github.com"
     - "gh"
 - github+fastgit:
     - "https://fastgit.cc/github.com"
     - "gh"
-- github+wgetla:
-    - "https://wget.la/https://github.com"
+- github:
+    - "https://github.com"
     - "gh"
